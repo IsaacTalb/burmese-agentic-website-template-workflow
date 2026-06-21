@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    min-height: 100vh;
+    background-color: var(--brand-bg);
+    color: var(--brand-text);
+  }
+
+  /* Myanmar font fallback */
+  @font-face {
+    font-family: "Myanmar Fallback";
+    src: local("Pyidaungsu"), local("Myanmar Text"), local("Noto Sans Myanmar");
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_comment": "AGENT-EDITABLE: Safe to modify. Do not add API keys here.",
+  "name": "Burmese Agentic",
+  "tagline": "agentic website template for small businesses in Myanmar",
+  "description": "This is a demo website for Burmese Agentic, showcasing how to use the agentic website template for small businesses in Myanmar. It includes features like product listing, shopping cart, checkout, and admin dashboard.",
+  "phone": "+95977085699",
+  "email": "isaac@duckcloud.info",
+  "address": "Yangon, Myanmar",
+  "social": {
+    "facebook": "",
+    "instagram": "",
+    "telegram": "@burmeseagentic"
+  },
+  "payment": {
+    "kbzpay": "09777085699",
+    "wavepay": "09777085699",
+    "cbpay": "09777085699",
+    "instruction": "ငွေပေးချေပြီးနောက် screenshot ရိုက်ပြီး upload လုပ်ပေးပါ။"
+  },
+  "delivery": {
+    "options": [
+      { "id": "yangon", "label": "Yangon Delivery", "price": 3000, "days": "1-2" },
+      { "id": "nationwide", "label": "Nationwide Delivery", "price": 5000, "days": "3-5" },
+      { "id": "pickup", "label": "Self Pickup", "price": 0, "days": "0" }
+    ]
+  }
+}

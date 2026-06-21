@@ -1,0 +1,21 @@
+{
+  "_comment": "AGENT-EDITABLE: Product catalog. Add, remove, or edit products here.",
+  "categories": ["All", "Category A", "Category B"],
+  "products": [
+    {
+      "id": "prod_001",
+      "name": "Sample Product",
+      "nameMyanmar": "နမူနာပစ္စည်း",
+      "category": "Category A",
+      "price": 15000,
+      "originalPrice": 18000,
+      "currency": "MMK",
+      "description": "Product description here.",
+      "descriptionMyanmar": "ပစ္စည်းဖော်ပြချက်",
+      "images": [],
+      "inStock": true,
+      "featured": true,
+      "tags": []
+    }
+  ]
+}

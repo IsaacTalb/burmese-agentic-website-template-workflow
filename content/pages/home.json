@@ -1,0 +1,24 @@
+{
+  "_comment": "AGENT-EDITABLE: Homepage content. Edit text freely.",
+  "hero": {
+    "headline": "Quality Products\nDelivered to You",
+    "subheadline": "Shop our curated collection with fast delivery across Myanmar.",
+    "cta": "Shop Now",
+    "ctaUrl": "/shop",
+    "imageUrl": ""
+  },
+  "featured": {
+    "title": "Featured Products",
+    "subtitle": "Handpicked for you"
+  },
+  "about_preview": {
+    "title": "About Us",
+    "body": "We are a local business based in Myanmar committed to quality and customer satisfaction.",
+    "cta": "Learn More",
+    "ctaUrl": "/about"
+  },
+  "announcement": {
+    "enabled": false,
+    "text": ""
+  }
+}

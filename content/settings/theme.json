@@ -1,0 +1,18 @@
+{
+  "_comment": "AGENT-EDITABLE: Brand colors and fonts. Use hex values.",
+  "colors": {
+    "primary": "#1a1a1a",
+    "secondary": "#ffffff",
+    "accent": "#c8a84b",
+    "bg": "#fafafa",
+    "text": "#1a1a1a"
+  },
+  "fonts": {
+    "display": "Playfair Display",
+    "body": "Inter"
+  },
+  "logo": {
+    "text": "BRAND",
+    "imageUrl": ""
+  }
+}
